@@ -1,0 +1,11 @@
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\bin\Debug\capanegocio.dll
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\bin\Debug\capanegocio.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\bin\Debug\capadatos.dll
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\bin\Debug\capaentidad.dll
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\bin\Debug\capadatos.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\bin\Debug\capaentidad.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\obj\Debug\capanegocio.csprojAssemblyReference.cache
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\obj\Debug\capanegocio.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\obj\Debug\capanegocio.csproj.CopyComplete
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\obj\Debug\capanegocio.dll
+C:\Users\Michel\Desktop\michel_visual\salud\capanegocio\obj\Debug\capanegocio.pdb

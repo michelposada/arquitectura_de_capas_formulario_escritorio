@@ -1,0 +1,17 @@
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\salud.exe.config
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\salud.exe
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\salud.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.csprojAssemblyReference.cache
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.Properties.Resources.resources
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.csproj.GenerateResource.cache
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.exe
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.Form1.resources
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\capaentidad.dll
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\capanegocio.dll
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\capadatos.dll
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\capaentidad.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\capanegocio.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\salud\bin\Debug\capadatos.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\salud\obj\Debug\salud.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\bin\Debug\capadatos.dll
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\bin\Debug\capadatos.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\bin\Debug\capaentidad.dll
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\bin\Debug\capaentidad.pdb
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\obj\Debug\capadatos.csprojAssemblyReference.cache
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\obj\Debug\capadatos.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\obj\Debug\capadatos.csproj.CopyComplete
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\obj\Debug\capadatos.dll
+C:\Users\Michel\Desktop\michel_visual\salud\capadatos\obj\Debug\capadatos.pdb
